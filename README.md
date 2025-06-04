@@ -8,7 +8,7 @@ los usuarios contactar, calificar, enviar reseñas y comunicarse a través de un
 mensajería interna.
 ---
 ## 📌 || Objetivos GENERALES:
-> Desarrollar una plataforma web que permita a los usuarios ofrecer y contratar servicios 
+> 1. Desarrollar una plataforma web que permita a los usuarios ofrecer y contratar servicios 
 de manera eficiente, facilitando la interacción y gestión de la relación entre proveedor y 
 cliente.
 > ---
