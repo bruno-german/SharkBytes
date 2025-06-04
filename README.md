@@ -12,7 +12,7 @@ mensajería interna.
 de manera eficiente, facilitando la interacción y gestión de la relación entre proveedor y 
 cliente.
 > ---
-> 📜 || Objetivos ESPECÍFICOS:
+> ### 📜 || Objetivos ESPECÍFICOS:
 > 1. Crear un sistema de registro y autenticación de usuarios (proveedores y clientes).
 > 2. Implementar un espacio virtual para la publicación y búsqueda de servicios por 
 categoría, palabra clave y ubicación.
