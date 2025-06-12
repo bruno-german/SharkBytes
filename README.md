@@ -29,7 +29,7 @@ usuarios.
 > 6. Construir una base de datos robusta y eficiente para almacenar la información de 
 usuarios, servicios, calificaciones y mensajes.
 > 7. Desarrollar una interfaz de usuario intuitiva y accesible.
-> 7,5. Probando cambios Genaro Martinez
+> 7,5. Integrantes: Alex Pablo
 ---
 ## 💻 || Tecnologías:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,json,mysql&titles=true)](https://github.com/bruno-german/SharkBytes)
