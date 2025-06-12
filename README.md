@@ -6,7 +6,11 @@ con clientes es crucial. Este proyecto de egreso se centra en el desarrollo de u
 web integral que facilite la oferta y contratación de diversos servicios (oficios), permitiendo a 
 los usuarios contactar, calificar, enviar reseñas y comunicarse a través de un sistema de 
 mensajería interna.
+<<<<<<< HEAD
 gghh
+=======
+----
+>>>>>>> f498ee2b5f33ae5fb2a6fa05219b7fe695524aa4
 ## 📌 || Objetivos GENERALES:
 > 1. Desarrollar una plataforma web que permita a los usuarios ofrecer y contratar servicios 
 de manera eficiente, facilitando la interacción y gestión de la relación entre proveedor y 
